@@ -1,0 +1,19 @@
+world:
+  date: 第一天
+  time: 上午
+  location: 随机播放录像店
+player:
+  name: "未设定"
+  role: "自由人"
+  status: "正常"
+  is_original: true
+agents:
+  list: []
+favorability:     # 只保留这一个
+  妮可: 30        # 注意缩进，必须是2个或4个空格
+narrative:
+  mode: 未选择
+  main_progress: 生意×怪事×正义
+  current_task: 无
+inventory:
+  丁尼: 5000
